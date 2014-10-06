@@ -1,0 +1,66 @@
+/* this is a comment */
+
+/*******************
+General
+*******************/
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+	background-color: white;
+}
+
+a { 
+	text-decoration: none;
+}
+
+/*******************
+Heading
+*******************/
+
+#logo {
+	text-align: center;
+	margin: 0;
+}
+
+/*******************
+colors
+*******************/
+
+/* site body */
+body {
+	background-color: #fff;
+	color: #999;
+}
+
+/* green header */
+header { 
+	background: #6ab47b;
+	border-color: #599a68; 
+}
+
+/* nav background on mobile */
+nav {
+	background: #599a68;
+}
+
+/*logo text */
+h1, h2 {
+	color: #fff;
+}
+
+a {
+	color: #6ab47b;
+}
+
+/* nav link */
+nav a, nav a:visited {
+	color: #fff;
+}
+
+/* selected nav link */
+nav a.selected, nav a:hover {
+	color: #32673f;
+}
+
